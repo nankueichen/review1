@@ -1,2 +1,2 @@
-# review1
-Review a few simple math function in preparation for discussion of MRI signal encoding and reconstruction
+## Math review in preparation for discussion of MRI signal encoding and reconstruction
+We use this jupyter notebook to review some math background in preparation for discussion of MRI signal encoding and reconstruction
